@@ -1,6 +1,6 @@
 # 我的第一个GitHub项目
 
-这是项目 [helloworld](https://github.com/corefish/NewProjectTest) ，
+这是项目 [NewProjectTest](https://github.com/corefish/NewProjectTest) ，
 欢迎访问。
 
 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
